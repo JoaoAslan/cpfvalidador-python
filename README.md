@@ -24,5 +24,5 @@ Um simples software que possibilita verificar um CPF.
 biblioteca utilizada no código:
 https://pypi.org/project/validate-docbr/
 
-    Software e Pesquisas feitos por Joao Aslan
+  Software e Pesquisas feitos por Joao Aslan
   30/09/2021
