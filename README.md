@@ -12,6 +12,6 @@ Um simples software que possibilita verificar um CPF.
    
 5. E por fim, todos os CPFs válidos são salvos no arquivo database.json, juntamente com os antigos dados salvos na variável (tópico 2);
 
-biblioteca utilizada no código: https://pypi.org/project/validate-docbr/
+Package* utilizada no código: https://pypi.org/project/validate-docbr/
 
 Software, Pesquisas e Fontes feitos por Joao Aslan ~ 30/09/2021
