@@ -30,7 +30,8 @@ SOFTWARE: O CPF "123.123.123-12" é inválido!
 
 ARQUIVO .json: [""] (poderá aparecer apenas CPFs válidos antes escritos!)
 
+~
 
-Package* utilizada no código: https://pypi.org/project/validate-docbr/
+*Package utilizada no código: https://pypi.org/project/validate-docbr/*
 
 Software, Pesquisas e Fontes feitos por Joao Aslan ~ 30/09/2021
