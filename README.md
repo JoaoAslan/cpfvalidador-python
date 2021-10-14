@@ -12,6 +12,17 @@ Um simples software que possibilita verificar um CPF.
    
 5. E por fim, todos os CPFs válidos são salvos no arquivo database.json, juntamente com os antigos dados salvos na variável (tópico 2);
 
+EXEMPLO:
+
+CPF DIGITADO: 466.843.284-91
+SOFTWARE: O CPF "466.843.284-91" é válido!
+ARQUIVO .json: ["466.843.284-91"]
+
+CPF DIGITADO: 123.123.123-12
+SOFTWARE: O CPF "123.123.123-12" é inválido!
+ARQUIVO .json: [""] (poderá aparecer apenas CPFs válidos antes escritos!)
+
+
 Package* utilizada no código: https://pypi.org/project/validate-docbr/
 
 Software, Pesquisas e Fontes feitos por Joao Aslan ~ 30/09/2021
